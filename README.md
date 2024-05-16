@@ -8,73 +8,106 @@ Com uma abordagem holística da segurança cibernética, não apenas domino as t
 
 Abaixo a listagem de cursos e especialização, ate o presente momento:
 
-Março de 2005
+Março de 2005:
+
 Construindo um PBX IP na prática com Asterisk e FreePBX 442 pela 4Linux.
 
-Junho de 2009
+Junho de 2009:
+
 Pen Test: Técnicas de Intrusão em Redes Corporativas pela 4Linux.
 
-Abril de 2019
+Abril de 2019:
+
 KMG Professional Certified pela Khomp.
 
 Janeiro de 2020
+
 Fundamentos de Ethical Hacking | Prof. Marcos Flávio Araújo Assunção pela Udemy Brasil.
 
-Fevereiro de 2020
+Fevereiro de 2020:
+
 Web Hacking - Técnicas de Invasão pela Udemy Brasil.
 
-Abril de 2020
+Abril de 2020:
+
 Ataques de Negação de Serviço (DoS e DDoS) pela Udemy Brasil.
 
 Maio de 2020
+
 Professional Penetration Tester pela GlobalSecure Academy.
+
 Ethical Hacking Command and Control EHC2 pela GoHacking.
 
-Junho de 2020
+Junho de 2020:
+
 Ethical Hacking Penetration Testing pela GoHacking.
+
 ICSI | CNSS Certified Network Security Specialist pela ICSI (International CyberSecurity Institute), UK.
+
 Cyber & IT Security Foundation pela DARYUS.
 
-Julho de 2020
+Julho de 2020:
+
 RSA SE Professional in NetWitness pela RSA Security.
+
 RSA SE Master in NetWitness pela RSA Security.
 
-Outubro de 2020
+Outubro de 2020:
+
 Web Defense Fundamentals pela Cybrary.
+
 AWS Security Fundamentals (Second Edition) (Portuguese) pela Amazon Web Services (AWS).
 
-Fevereiro de 2021
+Fevereiro de 2021:
+
 Pentest Profissional pela Desec Security.
 
-Outubro de 2022
+Outubro de 2022:
+
 Perito Forense Digital pela Academia de Forense Digital.
+
 Autopsy Forensics - do Zero ao Avançado pela Academia de Forense Digital.
+
 Auditoria de T.I na Prática pela Academia de Forense Digital.
 
-Dezembro de 2022
+
+Dezembro de 2022:
+
 FHT 100: Falcon Platform Architecture Overview pela CrowdStrike.
+
 FHT 101: Falcon Platform Technical Fundamentals pela CrowdStrike.
 
-Janeiro de 2023
+Janeiro de 2023:
+
 FHT 102: Falcon Platform Onboarding Configuration pela CrowdStrike.
+
 FHT 105: Sensor Installation, Configuration and Troubleshooting pela CrowdStrike.
+
 FHT 107: Falcon Firewall Management pela CrowdStrike.
+
 FHT 170: Falcon Identity Protection Fundamentals pela CrowdStrike.
 
-Fevereiro de 2023
+
+Fevereiro de 2023:
+
 FHT 104: Getting Started with the Endpoint Security Module pela CrowdStrike.
 
-Outubro de 2023
+Outubro de 2023:
+
 Introduction to Networking for Cyber Professionals (EDU-101) pela Zscaler.
 
-Fevereiro de 2024
+Fevereiro de 2024:
+
 Zscaler Technical Associate Certification pela Zscaler.
 
-Março de 2024
+Março de 2024:
+
 Zscaler Certified Sales Engineer pela Zscaler.
 
-Maio de 2024
+Maio de 2024:
+
 Assistente Técnicos Judiciais pela Beta Online.
+
 Documentoscopia pela Beta Online.
 Laudo Pericial · Pericia Criminal · Pericia Forense · Tecnologia da informação · Cibersegurança pela Beta Online.
 ARJOWINGGS · Análise de Documentos RIC · Análise forense · Laudo Pericial · Defesa cibernética pela Beta Online.
