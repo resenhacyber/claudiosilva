@@ -1,3 +1,5 @@
+Trajetoria Claudio Silva | ResenhacyberGD
+
 Ao longo de quase duas décadas, tenho dedicado minha carreira ao aprimoramento e especialização em segurança cibernética. Meu nome é Claudio Silva, e posso afirmar com orgulho que construí uma sólida formação respaldada por uma extensa lista de certificações e cursos especializados, refletindo meu compromisso com a excelência e a atualização contínua. Minha jornada inclui vasta experiência prática e teórica em diversas áreas, desde perícia forense digital até pentesting e gestão de segurança.
 
 Minha expertise em perícia forense digital me confere habilidades essenciais na investigação e resolução de incidentes cibernéticos. Enquanto isso, minha proficiência em pentesting me capacita a identificar e corrigir vulnerabilidades em sistemas e redes. Além disso, minha compreensão abrangente da gestão de segurança me permite desenvolver estratégias e políticas robustas para proteger organizações contra ameaças cibernéticas.
